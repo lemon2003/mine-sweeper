@@ -1,0 +1,10 @@
+.boardTable {
+  text-align: center;
+  /* border-collapse: collapse; */
+}
+
+.boardTd {
+  width: 30px;
+  height: 30px;
+  border: 1px solid gray;
+}
